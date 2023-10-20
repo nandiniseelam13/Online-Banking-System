@@ -1,24 +1,18 @@
 # Paragon Bank
-> Banking Website built on Django designed with Bootstrap
-## Demo:
-![](screenshot/bank.png)
-## Installation:
-**1.Clone Repo**
-```sh
-git clone https://github.com/shyam999/ParagonBank.git
-```
-**2.Setup Virtualenv & Install Requirements**
+Banking Website built on Django and designed with Bootstrap
+
+**1. Setup Virtualenv and Install Requirements**
 ```sh
 virtualenv env
 source env/bin/activate
 pip install -r requirements.txt
 ```
-**3.Migrate Database**
+**2.Migrate Database**
 ```sh
 python manage.py makemigrations
 python manage.py migrate
 ```
-**4.Run Server**
+**3.Run Server**
 ```sh
 python manage.py runserver
 ```
