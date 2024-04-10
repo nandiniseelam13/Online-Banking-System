@@ -1,4 +1,4 @@
-# Paragon Bank
+# Student's Bank
 Banking Website built on Django and designed with Bootstrap
 
 **1. Setup Virtualenv and Install Requirements**
